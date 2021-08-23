@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactTravelappLandingpg/static/css/main.d0db47eb.chunk.css",
+    "main.js": "/ReactTravelappLandingpg/static/js/main.9f9e361d.chunk.js",
+    "main.js.map": "/ReactTravelappLandingpg/static/js/main.9f9e361d.chunk.js.map",
+    "runtime-main.js": "/ReactTravelappLandingpg/static/js/runtime-main.a64bfcff.js",
+    "runtime-main.js.map": "/ReactTravelappLandingpg/static/js/runtime-main.a64bfcff.js.map",
+    "static/css/2.4be38407.chunk.css": "/ReactTravelappLandingpg/static/css/2.4be38407.chunk.css",
+    "static/js/2.990f53a1.chunk.js": "/ReactTravelappLandingpg/static/js/2.990f53a1.chunk.js",
+    "static/js/2.990f53a1.chunk.js.map": "/ReactTravelappLandingpg/static/js/2.990f53a1.chunk.js.map",
+    "index.html": "/ReactTravelappLandingpg/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/ReactTravelappLandingpg/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.d0db47eb.chunk.css.map": "/ReactTravelappLandingpg/static/css/main.d0db47eb.chunk.css.map",
+    "static/js/2.990f53a1.chunk.js.LICENSE.txt": "/ReactTravelappLandingpg/static/js/2.990f53a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a64bfcff.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.990f53a1.chunk.js",
+    "static/css/main.d0db47eb.chunk.css",
+    "static/js/main.9f9e361d.chunk.js"
+  ]
+}
